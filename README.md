@@ -5,6 +5,6 @@
 - 📫 You can reach me through my LinkedIn - https://www.linkedin.com/in/julurisaichandu, email - juluri.s@northeastern.edu
 - ⚡ Fun fact: I attend a lot of events at MIT and I met the Inventor of the Connection Machine( It was influential in advancing parallel computing, artificial intelligence, and scientific simulations.), Danny Hillis
 
-Contributions to these repos:
+Contributed to these repos:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=huggingface&repo=ai-deadlines&theme=dark)](https://github.com/huggingface/ai-deadlines)
